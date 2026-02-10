@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{64B7D209-C35E-43CC-80E6-E01090AB174F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Govt.BDPension</RootNamespace>
+    <AssemblyName>Govt.BDPension</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Enums\DashboardSource.cs" />
+    <Compile Include="Enums\UserRole.cs" />
+    <Compile Include="Forms\AddUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AddUser.Designer.cs">
+      <DependentUpon>AddUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AddUser1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\AddUser1.Designer.cs">
+      <DependentUpon>AddUser1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DashBoardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DashBoardForm.Designer.cs">
+      <DependentUpon>DashBoardForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DashBoardForm1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\DashBoardForm1.Designer.cs">
+      <DependentUpon>DashBoardForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DataAccess.cs" />
+    <Compile Include="Forms\Edit1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\Edit1.Designer.cs">
+      <DependentUpon>Edit1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\EmployeesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\EmployeesForm.Designer.cs">
+      <DependentUpon>EmployeesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\EmployeesForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\EmployeesForm1.Designer.cs">
+      <DependentUpon>EmployeesForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\EmployeesForm2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\EmployeesForm2.Designer.cs">
+      <DependentUpon>EmployeesForm2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ForgotMsgFrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ForgotMsgFrom.Designer.cs">
+      <DependentUpon>ForgotMsgFrom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ForgotPassForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ForgotPassForm.Designer.cs">
+      <DependentUpon>ForgotPassForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ManEmpForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ManEmpForm.Designer.cs">
+      <DependentUpon>ManEmpForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ManEmpForm1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\ManEmpForm1.Designer.cs">
+      <DependentUpon>ManEmpForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ManMenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ManMenuForm.Designer.cs">
+      <DependentUpon>ManMenuForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PayoutsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PayoutsForm.Designer.cs">
+      <DependentUpon>PayoutsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PayoutsForm1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\PayoutsForm1.Designer.cs">
+      <DependentUpon>PayoutsForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PensionCalForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PensionCalForm.Designer.cs">
+      <DependentUpon>PensionCalForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PensionCalForm1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\PensionCalForm1.Designer.cs">
+      <DependentUpon>PensionCalForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PensionMenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PensionMenuForm.Designer.cs">
+      <DependentUpon>PensionMenuForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PensionMenuForm1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\PensionMenuForm1.Designer.cs">
+      <DependentUpon>PensionMenuForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PensionMngForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PensionMngForm.Designer.cs">
+      <DependentUpon>PensionMngForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PensionMngForm1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\PensionMngForm1.Designer.cs">
+      <DependentUpon>PensionMngForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\RetirementMgmt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\RetirementMgmt.Designer.cs">
+      <DependentUpon>RetirementMgmt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\RetirementMgmt1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\RetirementMgmt1.Designer.cs">
+      <DependentUpon>RetirementMgmt1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SettingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SettingsForm.Designer.cs">
+      <DependentUpon>SettingsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SysadDasBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SysadDasBoard.Designer.cs">
+      <DependentUpon>SysadDasBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UserControlAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UserControlAdd.Designer.cs">
+      <DependentUpon>UserControlAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UserRoleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UserRoleForm.Designer.cs">
+      <DependentUpon>UserRoleForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UserRoleForm1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\UserRoleForm1.Designer.cs">
+      <DependentUpon>UserRoleForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ViewEmp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ViewEmp.Designer.cs">
+      <DependentUpon>ViewEmp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ViewEmpForm1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\ViewEmpForm1.Designer.cs">
+      <DependentUpon>ViewEmpForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ViewMenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ViewMenuForm.Designer.cs">
+      <DependentUpon>ViewMenuForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ViewMenuForm1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\ViewMenuForm1.Designer.cs">
+      <DependentUpon>ViewMenuForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\PensionConfig.cs" />
+    <Compile Include="Models\PensionSettings.cs" />
+    <Compile Include="Models\RankPolicy.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\PensionCalculator.cs" />
+    <Compile Include="Services\QueryService.cs" />
+    <Compile Include="Services\SettingsService.cs" />
+    <Compile Include="Session\CurrentUser.cs" />
+    <EmbeddedResource Include="Forms\AddUser.resx">
+      <DependentUpon>AddUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AddUser1.resx">
+      <DependentUpon>AddUser1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DashBoardForm.resx">
+      <DependentUpon>DashBoardForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DashBoardForm1.resx">
+      <DependentUpon>DashBoardForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Edit1.resx">
+      <DependentUpon>Edit1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\EmployeesForm.resx">
+      <DependentUpon>EmployeesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\EmployeesForm1.resx">
+      <DependentUpon>EmployeesForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\EmployeesForm2.resx">
+      <DependentUpon>EmployeesForm2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ForgotMsgFrom.resx">
+      <DependentUpon>ForgotMsgFrom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ForgotPassForm.resx">
+      <DependentUpon>ForgotPassForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ManEmpForm.resx">
+      <DependentUpon>ManEmpForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ManEmpForm1.resx">
+      <DependentUpon>ManEmpForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ManMenuForm.resx">
+      <DependentUpon>ManMenuForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PayoutsForm.resx">
+      <DependentUpon>PayoutsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PayoutsForm1.resx">
+      <DependentUpon>PayoutsForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PensionCalForm.resx">
+      <DependentUpon>PensionCalForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PensionCalForm1.resx">
+      <DependentUpon>PensionCalForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PensionMenuForm.resx">
+      <DependentUpon>PensionMenuForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PensionMenuForm1.resx">
+      <DependentUpon>PensionMenuForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PensionMngForm.resx">
+      <DependentUpon>PensionMngForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PensionMngForm1.resx">
+      <DependentUpon>PensionMngForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\RetirementMgmt.resx">
+      <DependentUpon>RetirementMgmt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\RetirementMgmt1.resx">
+      <DependentUpon>RetirementMgmt1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SettingsForm.resx">
+      <DependentUpon>SettingsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SysadDasBoard.resx">
+      <DependentUpon>SysadDasBoard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UserControlAdd.resx">
+      <DependentUpon>UserControlAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UserRoleForm.resx">
+      <DependentUpon>UserRoleForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UserRoleForm1.resx">
+      <DependentUpon>UserRoleForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ViewEmp.resx">
+      <DependentUpon>ViewEmp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ViewEmpForm1.resx">
+      <DependentUpon>ViewEmpForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ViewMenuForm.resx">
+      <DependentUpon>ViewMenuForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ViewMenuForm1.resx">
+      <DependentUpon>ViewMenuForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Utils\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Data\SqlQueries.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

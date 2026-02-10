@@ -1,0 +1,609 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|c:\\users\\admin\\documents\\github\\oop2\\govt.bdpension\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\forms\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\forms\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\forms\\viewmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\viewmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\forms\\employeesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\employeesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\forms\\viewemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\viewemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\forms\\pensionmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\pensionmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\LoginForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:Forms\\LoginForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\SysadDasBoard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:Forms\\SysadDasBoard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\ViewEmp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:Forms\\ViewEmp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\ViewMenuForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:Forms\\ViewMenuForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:Forms\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\forms\\sysaddasboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\sysaddasboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\PensionMenuForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:Forms\\PensionMenuForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\forms\\pensionmngform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\pensionmngform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\forms\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\EmployeesForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:Forms\\EmployeesForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\forms\\userroleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\userroleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\ForgotPassForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:Forms\\ForgotPassForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\forms\\forgotpassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\forgotpassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Models\\PensionConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:Models\\PensionConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\forms\\manempform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\manempform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\SettingsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:Forms\\SettingsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\forms\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Models\\RankPolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:Models\\RankPolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Models\\PensionSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:Models\\PensionSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\PensionCalForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:Forms\\PensionCalForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Services\\PensionCalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:Services\\PensionCalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\forms\\pensioncalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\pensioncalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\PensionMngForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:Forms\\PensionMngForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\ManMenuForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:Forms\\ManMenuForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\forms\\manmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\manmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\RetirementMgmt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:Forms\\RetirementMgmt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\forms\\retirementmgmt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\retirementmgmt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\PayoutsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:Forms\\PayoutsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\DashBoardForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:Forms\\DashBoardForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\DashBoardForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:Forms\\DashBoardForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewMenuForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\ViewMenuForm.cs",
+              "RelativeDocumentMoniker": "Forms\\ViewMenuForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\ViewMenuForm.cs [Design]",
+              "RelativeToolTip": "Forms\\ViewMenuForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T15:42:13.997Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\EmployeesForm.cs",
+              "RelativeDocumentMoniker": "Forms\\EmployeesForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\EmployeesForm.cs [Design]",
+              "RelativeToolTip": "Forms\\EmployeesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T15:47:35.267Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewEmp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\ViewEmp.cs",
+              "RelativeDocumentMoniker": "Forms\\ViewEmp.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\ViewEmp.cs [Design]",
+              "RelativeToolTip": "Forms\\ViewEmp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T15:48:48.416Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PensionMenuForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\PensionMenuForm.cs",
+              "RelativeDocumentMoniker": "Forms\\PensionMenuForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\PensionMenuForm.cs [Design]",
+              "RelativeToolTip": "Forms\\PensionMenuForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T10:36:15.402Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\LoginForm.cs [Design]",
+              "RelativeToolTip": "Forms\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T10:07:48.344Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\AddUser.cs",
+              "RelativeDocumentMoniker": "Forms\\AddUser.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\AddUser.cs [Design]",
+              "RelativeToolTip": "Forms\\AddUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T16:42:06.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SysadDasBoard.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\SysadDasBoard.cs",
+              "RelativeDocumentMoniker": "Forms\\SysadDasBoard.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\SysadDasBoard.cs",
+              "RelativeToolTip": "Forms\\SysadDasBoard.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAEMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T15:32:58.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ViewEmp.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\ViewEmp.cs",
+              "RelativeDocumentMoniker": "Forms\\ViewEmp.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\ViewEmp.cs",
+              "RelativeToolTip": "Forms\\ViewEmp.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T15:51:36.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ViewMenuForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\ViewMenuForm.cs",
+              "RelativeDocumentMoniker": "Forms\\ViewMenuForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\ViewMenuForm.cs",
+              "RelativeToolTip": "Forms\\ViewMenuForm.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T15:51:32.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\LoginForm.cs",
+              "RelativeToolTip": "Forms\\LoginForm.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAIA3wEUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T12:09:14.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\LoginForm.Designer.cs",
+              "RelativeToolTip": "Forms\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T16:18:55.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddUser.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\AddUser.cs",
+              "RelativeDocumentMoniker": "Forms\\AddUser.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\AddUser.cs",
+              "RelativeToolTip": "Forms\\AddUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T15:05:26.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SysadDasBoard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\SysadDasBoard.cs",
+              "RelativeDocumentMoniker": "Forms\\SysadDasBoard.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\SysadDasBoard.cs [Design]",
+              "RelativeToolTip": "Forms\\SysadDasBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T15:32:57.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PensionMenuForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\PensionMenuForm.cs",
+              "RelativeDocumentMoniker": "Forms\\PensionMenuForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\PensionMenuForm.cs",
+              "RelativeToolTip": "Forms\\PensionMenuForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAawBAAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T15:55:24.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PensionMngForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\PensionMngForm.cs",
+              "RelativeDocumentMoniker": "Forms\\PensionMngForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\PensionMngForm.cs [Design]",
+              "RelativeToolTip": "Forms\\PensionMngForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T13:29:52.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DashBoardForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\DashBoardForm.cs",
+              "RelativeDocumentMoniker": "Forms\\DashBoardForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\DashBoardForm.cs [Design]",
+              "RelativeToolTip": "Forms\\DashBoardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T10:35:38.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeesForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\EmployeesForm.cs",
+              "RelativeDocumentMoniker": "Forms\\EmployeesForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\EmployeesForm.cs",
+              "RelativeToolTip": "Forms\\EmployeesForm.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAnwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T13:22:37.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserRoleForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\UserRoleForm.cs",
+              "RelativeDocumentMoniker": "Forms\\UserRoleForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\UserRoleForm.cs [Design]",
+              "RelativeToolTip": "Forms\\UserRoleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T15:45:18.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ForgotPassForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\ForgotPassForm.cs",
+              "RelativeDocumentMoniker": "Forms\\ForgotPassForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\ForgotPassForm.cs",
+              "RelativeToolTip": "Forms\\ForgotPassForm.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAswD0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T15:23:55.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ForgotPassForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\ForgotPassForm.cs",
+              "RelativeDocumentMoniker": "Forms\\ForgotPassForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\ForgotPassForm.cs [Design]",
+              "RelativeToolTip": "Forms\\ForgotPassForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T15:20:02.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PensionConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Models\\PensionConfig.cs",
+              "RelativeDocumentMoniker": "Models\\PensionConfig.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Models\\PensionConfig.cs",
+              "RelativeToolTip": "Models\\PensionConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T14:36:18.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ManEmpForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\ManEmpForm.cs",
+              "RelativeDocumentMoniker": "Forms\\ManEmpForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\ManEmpForm.cs [Design]",
+              "RelativeToolTip": "Forms\\ManEmpForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T06:25:30.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SettingsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\SettingsForm.cs",
+              "RelativeDocumentMoniker": "Forms\\SettingsForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\SettingsForm.cs",
+              "RelativeToolTip": "Forms\\SettingsForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T13:41:05.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SettingsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\SettingsForm.cs",
+              "RelativeDocumentMoniker": "Forms\\SettingsForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\SettingsForm.cs [Design]",
+              "RelativeToolTip": "Forms\\SettingsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T08:00:29.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RankPolicy.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Models\\RankPolicy.cs",
+              "RelativeDocumentMoniker": "Models\\RankPolicy.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Models\\RankPolicy.cs",
+              "RelativeToolTip": "Models\\RankPolicy.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAuwEkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T07:56:17.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PensionSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Models\\PensionSettings.cs",
+              "RelativeDocumentMoniker": "Models\\PensionSettings.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Models\\PensionSettings.cs",
+              "RelativeToolTip": "Models\\PensionSettings.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwDMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T07:56:14.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PensionCalForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\PensionCalForm.cs",
+              "RelativeDocumentMoniker": "Forms\\PensionCalForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\PensionCalForm.cs",
+              "RelativeToolTip": "Forms\\PensionCalForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T13:39:40.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PensionCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Services\\PensionCalculator.cs",
+              "RelativeDocumentMoniker": "Services\\PensionCalculator.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Services\\PensionCalculator.cs",
+              "RelativeToolTip": "Services\\PensionCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T07:56:19.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PensionCalForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\PensionCalForm.cs",
+              "RelativeDocumentMoniker": "Forms\\PensionCalForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\PensionCalForm.cs [Design]",
+              "RelativeToolTip": "Forms\\PensionCalForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T13:39:25.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PensionMngForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\PensionMngForm.cs",
+              "RelativeDocumentMoniker": "Forms\\PensionMngForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\PensionMngForm.cs",
+              "RelativeToolTip": "Forms\\PensionMngForm.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA0wCcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T10:10:14.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ManMenuForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\ManMenuForm.cs",
+              "RelativeDocumentMoniker": "Forms\\ManMenuForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\ManMenuForm.cs",
+              "RelativeToolTip": "Forms\\ManMenuForm.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAtwBEAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T13:24:52.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ManMenuForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\ManMenuForm.cs",
+              "RelativeDocumentMoniker": "Forms\\ManMenuForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\ManMenuForm.cs [Design]",
+              "RelativeToolTip": "Forms\\ManMenuForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T13:24:50.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RetirementMgmt.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\RetirementMgmt.cs",
+              "RelativeDocumentMoniker": "Forms\\RetirementMgmt.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\RetirementMgmt.cs",
+              "RelativeToolTip": "Forms\\RetirementMgmt.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAtwDkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T12:25:16.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RetirementMgmt.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\RetirementMgmt.cs",
+              "RelativeDocumentMoniker": "Forms\\RetirementMgmt.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\RetirementMgmt.cs [Design]",
+              "RelativeToolTip": "Forms\\RetirementMgmt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T10:40:28.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PayoutsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\PayoutsForm.cs",
+              "RelativeDocumentMoniker": "Forms\\PayoutsForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\PayoutsForm.cs",
+              "RelativeToolTip": "Forms\\PayoutsForm.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAWwDkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T13:22:45.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DashBoardForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\DashBoardForm.cs",
+              "RelativeDocumentMoniker": "Forms\\DashBoardForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\DashBoardForm.cs",
+              "RelativeToolTip": "Forms\\DashBoardForm.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAWwDkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T12:23:56.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DashBoardForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\DashBoardForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\DashBoardForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\OOP2\\Govt.BDPension\\Forms\\DashBoardForm.Designer.cs",
+              "RelativeToolTip": "Forms\\DashBoardForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T13:22:18.663Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

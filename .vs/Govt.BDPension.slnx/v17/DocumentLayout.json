@@ -1,0 +1,1122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\data\\sqlqueries.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:data\\sqlqueries.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|d:\\govt.bdpension 12\\govt.bdpension 1\\govt.bdpension\\forms\\usercontroladd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\usercontroladd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\employeesform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\employeesform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\edit1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\edit1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\viewempform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\viewempform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\usercontroladd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\usercontroladd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\retirementmgmt1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\retirementmgmt1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\retirementmgmt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\retirementmgmt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\pensionmngform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\pensionmngform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\pensionmenuform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\pensionmenuform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\forgotpassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\forgotpassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\manempform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\manempform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\manempform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\manempform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\manmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\manmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\payoutsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\payoutsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\payoutsform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\payoutsform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\pensioncalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\pensioncalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\viewmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\viewmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\userroleform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\userroleform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\pensioncalform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\pensioncalform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\pensioncalform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\pensioncalform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\pensionmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\pensionmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\pensionmngform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\pensionmngform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\sysaddasboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\sysaddasboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\userroleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\userroleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\viewempform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\viewempform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\userroleform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\userroleform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\viewemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\viewemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\pensionmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\pensionmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\retirementmgmt1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\retirementmgmt1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\adduser1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\adduser1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\adduser1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\adduser1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\pensionmngform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\pensionmngform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\manmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\manmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\manempform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\manempform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\edit1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\edit1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\employeesform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\employeesform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\employeesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\employeesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\employeesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\employeesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\viewmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\viewmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\viewmenuform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\viewmenuform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\payoutsform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\payoutsform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\sysaddasboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\sysaddasboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\viewmenuform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\viewmenuform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\sysaddasboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\sysaddasboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\pensioncalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\pensioncalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\payoutsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\payoutsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\pensioncalform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\pensioncalform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\pensionmenuform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\pensionmenuform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\dashboardform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\dashboardform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\manmenuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\manmenuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\pensionmngform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\pensionmngform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\enums\\dashboardsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:enums\\dashboardsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\employeesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\employeesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\manempform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\manempform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\employeesform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\employeesform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\dashboardform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\dashboardform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\retirementmgmt.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\retirementmgmt.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\adduser.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\adduser.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\dashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\dashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\manempform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\manempform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\forms\\forgotmsgfrom.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7D209-C35E-43CC-80E6-E01090AB174F}|Govt.BDPension.csproj|solutionrelative:forms\\forgotmsgfrom.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 29,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PensionMenuForm.cs [Design]",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\PensionMenuForm.cs",
+              "RelativeDocumentMoniker": "Forms\\PensionMenuForm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\New Govt\\New Govt\\Govt.BDPension 1\\Govt.BDPension\\Forms\\PensionMenuForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T16:40:53.324Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "DashBoardForm.cs [Design]",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\DashBoardForm.cs",
+              "RelativeDocumentMoniker": "Forms\\DashBoardForm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\New Govt\\New Govt\\Govt.BDPension 1\\Govt.BDPension\\Forms\\DashBoardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T07:37:02.546Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AddUser1.cs [Design]",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\AddUser1.cs",
+              "RelativeDocumentMoniker": "Forms\\AddUser1.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\New Govt\\New Govt\\Govt.BDPension 1\\Govt.BDPension\\Forms\\AddUser1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T14:28:57.007Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "DashBoardForm1.cs [Design]",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\DashBoardForm1.cs",
+              "RelativeDocumentMoniker": "Forms\\DashBoardForm1.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\New Govt\\New Govt\\Govt.BDPension 1\\Govt.BDPension\\Forms\\DashBoardForm1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T05:26:46.944Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "EmployeesForm.cs [Design]",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\EmployeesForm.cs",
+              "RelativeDocumentMoniker": "Forms\\EmployeesForm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\New Govt\\New Govt\\Govt.BDPension 1\\Govt.BDPension\\Forms\\EmployeesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T17:00:35.019Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EmployeesForm2.cs [Design]",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\EmployeesForm2.cs",
+              "RelativeDocumentMoniker": "Forms\\EmployeesForm2.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\New Govt\\New Govt\\Govt.BDPension 1\\Govt.BDPension\\Forms\\EmployeesForm2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T05:53:10.896Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "EmployeesForm.cs",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\EmployeesForm.cs",
+              "RelativeDocumentMoniker": "Forms\\EmployeesForm.cs",
+              "ToolTip": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\EmployeesForm.cs",
+              "RelativeToolTip": "Forms\\EmployeesForm.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T17:15:54.797Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PayoutsForm1.cs [Design]",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\PayoutsForm1.cs",
+              "RelativeDocumentMoniker": "Forms\\PayoutsForm1.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\New Govt\\New Govt\\Govt.BDPension 1\\Govt.BDPension\\Forms\\PayoutsForm1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T07:19:26.487Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PayoutsForm.cs [Design]",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\PayoutsForm.cs",
+              "RelativeDocumentMoniker": "Forms\\PayoutsForm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\New Govt\\New Govt\\Govt.BDPension 1\\Govt.BDPension\\Forms\\PayoutsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T16:32:47.542Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ViewMenuForm1.cs [Design]",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\ViewMenuForm1.cs",
+              "RelativeDocumentMoniker": "Forms\\ViewMenuForm1.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\New Govt\\New Govt\\Govt.BDPension 1\\Govt.BDPension\\Forms\\ViewMenuForm1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T11:11:11.739Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ViewMenuForm.cs [Design]",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\ViewMenuForm.cs",
+              "RelativeDocumentMoniker": "Forms\\ViewMenuForm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\New Govt\\New Govt\\Govt.BDPension 1\\Govt.BDPension\\Forms\\ViewMenuForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T07:39:36.914Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeesForm2.cs",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\EmployeesForm2.cs",
+              "RelativeDocumentMoniker": "Forms\\EmployeesForm2.cs",
+              "ToolTip": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\EmployeesForm2.cs",
+              "RelativeToolTip": "Forms\\EmployeesForm2.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAMQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T06:03:26.743Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "AddUser.cs",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\AddUser.cs",
+              "RelativeDocumentMoniker": "Forms\\AddUser.cs",
+              "ToolTip": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\AddUser.cs",
+              "RelativeToolTip": "Forms\\AddUser.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAzwBgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T17:18:59.808Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ManEmpForm1.cs",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\ManEmpForm1.cs",
+              "RelativeDocumentMoniker": "Forms\\ManEmpForm1.cs",
+              "ToolTip": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\ManEmpForm1.cs",
+              "RelativeToolTip": "Forms\\ManEmpForm1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T12:11:25.934Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ManMenuForm.cs [Design]",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\ManMenuForm.cs",
+              "RelativeDocumentMoniker": "Forms\\ManMenuForm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\New Govt\\New Govt\\Govt.BDPension 1\\Govt.BDPension\\Forms\\ManMenuForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T07:37:15.421Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ViewMenuForm.cs",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\ViewMenuForm.cs",
+              "RelativeDocumentMoniker": "Forms\\ViewMenuForm.cs",
+              "ToolTip": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\ViewMenuForm.cs",
+              "RelativeToolTip": "Forms\\ViewMenuForm.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAjwDEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T16:45:08.157Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ViewEmpForm1.cs",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\ViewEmpForm1.cs",
+              "RelativeDocumentMoniker": "Forms\\ViewEmpForm1.cs",
+              "ToolTip": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\ViewEmpForm1.cs",
+              "RelativeToolTip": "Forms\\ViewEmpForm1.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T12:44:33.842Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AddUser1.cs",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\AddUser1.cs",
+              "RelativeDocumentMoniker": "Forms\\AddUser1.cs",
+              "ToolTip": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\AddUser1.cs",
+              "RelativeToolTip": "Forms\\AddUser1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvx0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T15:15:17.775Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PensionMenuForm1.cs [Design]",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\PensionMenuForm1.cs",
+              "RelativeDocumentMoniker": "Forms\\PensionMenuForm1.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\New Govt\\New Govt\\Govt.BDPension 1\\Govt.BDPension\\Forms\\PensionMenuForm1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T04:46:42.219Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ManMenuForm.cs",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\ManMenuForm.cs",
+              "RelativeDocumentMoniker": "Forms\\ManMenuForm.cs",
+              "ToolTip": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\ManMenuForm.cs",
+              "RelativeToolTip": "Forms\\ManMenuForm.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAIA9wGwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T16:43:27.904Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserRoleForm1.cs",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\UserRoleForm1.cs",
+              "RelativeDocumentMoniker": "Forms\\UserRoleForm1.cs",
+              "ToolTip": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\UserRoleForm1.cs",
+              "RelativeToolTip": "Forms\\UserRoleForm1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T14:50:03.128Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PensionCalForm1.cs [Design]",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\PensionCalForm1.cs",
+              "RelativeDocumentMoniker": "Forms\\PensionCalForm1.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\New Govt\\New Govt\\Govt.BDPension 1\\Govt.BDPension\\Forms\\PensionCalForm1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T06:42:44.501Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PensionCalForm1.cs",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\PensionCalForm1.cs",
+              "RelativeDocumentMoniker": "Forms\\PensionCalForm1.cs",
+              "ToolTip": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\PensionCalForm1.cs",
+              "RelativeToolTip": "Forms\\PensionCalForm1.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAD4v1UAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T06:44:18.801Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "SysadDasBoard.cs",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\SysadDasBoard.cs",
+              "RelativeDocumentMoniker": "Forms\\SysadDasBoard.cs",
+              "ToolTip": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\SysadDasBoard.cs",
+              "RelativeToolTip": "Forms\\SysadDasBoard.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAIAywF0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T11:26:59.452Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ViewMenuForm1.cs",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\ViewMenuForm1.cs",
+              "RelativeDocumentMoniker": "Forms\\ViewMenuForm1.cs",
+              "ToolTip": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\ViewMenuForm1.cs",
+              "RelativeToolTip": "Forms\\ViewMenuForm1.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwBwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T11:15:40.548Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "PayoutsForm1.cs",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\PayoutsForm1.cs",
+              "RelativeDocumentMoniker": "Forms\\PayoutsForm1.cs",
+              "ToolTip": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\PayoutsForm1.cs",
+              "RelativeToolTip": "Forms\\PayoutsForm1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAD4vx8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T07:31:45.577Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit1.cs",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\Edit1.cs",
+              "RelativeDocumentMoniker": "Forms\\Edit1.cs",
+              "ToolTip": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\Edit1.cs",
+              "RelativeToolTip": "Forms\\Edit1.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAwGMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T05:34:01.031Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RetirementMgmt1.cs",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\RetirementMgmt1.cs",
+              "RelativeDocumentMoniker": "Forms\\RetirementMgmt1.cs",
+              "ToolTip": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\RetirementMgmt1.cs",
+              "RelativeToolTip": "Forms\\RetirementMgmt1.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAIwHUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T13:35:50.227Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControlAdd.cs",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\UserControlAdd.cs",
+              "RelativeDocumentMoniker": "Forms\\UserControlAdd.cs",
+              "ToolTip": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\UserControlAdd.cs",
+              "RelativeToolTip": "Forms\\UserControlAdd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T15:05:29.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SqlQueries.xml",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Data\\SqlQueries.xml",
+              "RelativeDocumentMoniker": "Data\\SqlQueries.xml",
+              "ToolTip": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Data\\SqlQueries.xml",
+              "RelativeToolTip": "Data\\SqlQueries.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-01-06T06:54:55.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Edit1.cs [Design]",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\Edit1.cs",
+              "RelativeDocumentMoniker": "Forms\\Edit1.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\New Govt\\New Govt\\Govt.BDPension 1\\Govt.BDPension\\Forms\\Edit1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T05:32:43.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PensionCalForm.cs [Design]",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\PensionCalForm.cs",
+              "RelativeDocumentMoniker": "Forms\\PensionCalForm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\New Govt\\New Govt\\Govt.BDPension 1\\Govt.BDPension\\Forms\\PensionCalForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T04:35:49.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PensionMenuForm.cs",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\PensionMenuForm.cs",
+              "RelativeDocumentMoniker": "Forms\\PensionMenuForm.cs",
+              "ToolTip": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\PensionMenuForm.cs",
+              "RelativeToolTip": "Forms\\PensionMenuForm.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAD4v40AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T16:40:57.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ManEmpForm1.cs [Design]",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\ManEmpForm1.cs",
+              "RelativeDocumentMoniker": "Forms\\ManEmpForm1.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\New Govt\\New Govt\\Govt.BDPension 1\\Govt.BDPension\\Forms\\ManEmpForm1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T12:03:56.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ForgotPassForm.cs [Design]",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\ForgotPassForm.cs",
+              "RelativeDocumentMoniker": "Forms\\ForgotPassForm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\New Govt\\New Govt\\Govt.BDPension 1\\Govt.BDPension\\Forms\\ForgotPassForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T07:15:48.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SysadDasBoard.cs [Design]",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\SysadDasBoard.cs",
+              "RelativeDocumentMoniker": "Forms\\SysadDasBoard.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\New Govt\\New Govt\\Govt.BDPension 1\\Govt.BDPension\\Forms\\SysadDasBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T07:36:50.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewEmpForm1.cs [Design]",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\ViewEmpForm1.cs",
+              "RelativeDocumentMoniker": "Forms\\ViewEmpForm1.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\New Govt\\New Govt\\Govt.BDPension 1\\Govt.BDPension\\Forms\\ViewEmpForm1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T12:42:19.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserRoleForm1.cs [Design]",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\UserRoleForm1.cs",
+              "RelativeDocumentMoniker": "Forms\\UserRoleForm1.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\New Govt\\New Govt\\Govt.BDPension 1\\Govt.BDPension\\Forms\\UserRoleForm1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T14:42:26.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserControlAdd.cs [Design]",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\UserControlAdd.cs",
+              "RelativeDocumentMoniker": "Forms\\UserControlAdd.cs",
+              "ToolTip": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\UserControlAdd.cs [Design]",
+              "RelativeToolTip": "Forms\\UserControlAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T15:04:52.598Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Forms\\LoginForm.cs",
+              "ToolTip": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\LoginForm.cs",
+              "RelativeToolTip": "Forms\\LoginForm.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAlwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T09:14:16.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AddUser.cs [Design]",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\AddUser.cs",
+              "RelativeDocumentMoniker": "Forms\\AddUser.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\New Govt\\New Govt\\Govt.BDPension 1\\Govt.BDPension\\Forms\\AddUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T07:35:17.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserRoleForm.cs [Design]",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\UserRoleForm.cs",
+              "RelativeDocumentMoniker": "Forms\\UserRoleForm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\New Govt\\New Govt\\Govt.BDPension 1\\Govt.BDPension\\Forms\\UserRoleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T14:41:34.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RetirementMgmt1.cs [Design]",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\RetirementMgmt1.cs",
+              "RelativeDocumentMoniker": "Forms\\RetirementMgmt1.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\New Govt\\New Govt\\Govt.BDPension 1\\Govt.BDPension\\Forms\\RetirementMgmt1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T13:33:57.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "PayoutsForm.cs",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\PayoutsForm.cs",
+              "RelativeDocumentMoniker": "Forms\\PayoutsForm.cs",
+              "ToolTip": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\PayoutsForm.cs",
+              "RelativeToolTip": "Forms\\PayoutsForm.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T07:18:59.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "EmployeesForm1.cs [Design]",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\EmployeesForm1.cs",
+              "RelativeDocumentMoniker": "Forms\\EmployeesForm1.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\New Govt\\New Govt\\Govt.BDPension 1\\Govt.BDPension\\Forms\\EmployeesForm1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T05:48:44.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "DashBoardForm1.cs",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\DashBoardForm1.cs",
+              "RelativeDocumentMoniker": "Forms\\DashBoardForm1.cs",
+              "ToolTip": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\DashBoardForm1.cs",
+              "RelativeToolTip": "Forms\\DashBoardForm1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T05:35:21.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "PensionMenuForm1.cs",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\PensionMenuForm1.cs",
+              "RelativeDocumentMoniker": "Forms\\PensionMenuForm1.cs",
+              "ToolTip": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\PensionMenuForm1.cs",
+              "RelativeToolTip": "Forms\\PensionMenuForm1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T04:50:10.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PensionMngForm1.cs",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\PensionMngForm1.cs",
+              "RelativeDocumentMoniker": "Forms\\PensionMngForm1.cs",
+              "ToolTip": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\PensionMngForm1.cs",
+              "RelativeToolTip": "Forms\\PensionMngForm1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T04:34:41.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PensionMngForm1.cs [Design]",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\PensionMngForm1.cs",
+              "RelativeDocumentMoniker": "Forms\\PensionMngForm1.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\New Govt\\New Govt\\Govt.BDPension 1\\Govt.BDPension\\Forms\\PensionMngForm1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T04:31:39.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "AddUser.resx",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\AddUser.resx",
+              "RelativeDocumentMoniker": "Forms\\AddUser.resx",
+              "ToolTip": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\AddUser.resx",
+              "RelativeToolTip": "Forms\\AddUser.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-12-30T05:00:37.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "EmployeesForm.Designer.cs",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\EmployeesForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\EmployeesForm.Designer.cs",
+              "ToolTip": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\EmployeesForm.Designer.cs",
+              "RelativeToolTip": "Forms\\EmployeesForm.Designer.cs",
+              "ViewState": "AgIAADABAAAAAAAAAAAhwDcBAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T17:03:23.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ManEmpForm.resx",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\ManEmpForm.resx",
+              "RelativeDocumentMoniker": "Forms\\ManEmpForm.resx",
+              "ToolTip": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\ManEmpForm.resx",
+              "RelativeToolTip": "Forms\\ManEmpForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-12-29T15:44:12.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ManEmpForm.cs [Design]",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\ManEmpForm.cs",
+              "RelativeDocumentMoniker": "Forms\\ManEmpForm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\New Govt\\New Govt\\Govt.BDPension 1\\Govt.BDPension\\Forms\\ManEmpForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T07:36:45.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\DataAccess.cs",
+              "RelativeDocumentMoniker": "Forms\\DataAccess.cs",
+              "ToolTip": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\DataAccess.cs",
+              "RelativeToolTip": "Forms\\DataAccess.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwD0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T09:32:09.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SettingsForm.cs [Design]",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\SettingsForm.cs",
+              "RelativeDocumentMoniker": "Forms\\SettingsForm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\New Govt\\New Govt\\Govt.BDPension 1\\Govt.BDPension\\Forms\\SettingsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T14:08:05.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ManEmpForm.cs",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\ManEmpForm.cs",
+              "RelativeDocumentMoniker": "Forms\\ManEmpForm.cs",
+              "ToolTip": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\ManEmpForm.cs",
+              "RelativeToolTip": "Forms\\ManEmpForm.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T14:08:36.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "DashboardSource.cs",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Enums\\DashboardSource.cs",
+              "RelativeDocumentMoniker": "Enums\\DashboardSource.cs",
+              "ToolTip": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Enums\\DashboardSource.cs",
+              "RelativeToolTip": "Enums\\DashboardSource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T16:30:13.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "SysadDasBoard.Designer.cs",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\SysadDasBoard.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\SysadDasBoard.Designer.cs",
+              "ToolTip": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\SysadDasBoard.Designer.cs",
+              "RelativeToolTip": "Forms\\SysadDasBoard.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T11:25:15.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "Enums\\UserRole.cs",
+              "ToolTip": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Enums\\UserRole.cs",
+              "RelativeToolTip": "Enums\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T11:20:02.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "PensionCalForm.cs",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\PensionCalForm.cs",
+              "RelativeDocumentMoniker": "Forms\\PensionCalForm.cs",
+              "ToolTip": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\PensionCalForm.cs",
+              "RelativeToolTip": "Forms\\PensionCalForm.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAuwGQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T11:00:56.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "PensionMngForm.cs",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\PensionMngForm.cs",
+              "RelativeDocumentMoniker": "Forms\\PensionMngForm.cs",
+              "ToolTip": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\PensionMngForm.cs",
+              "RelativeToolTip": "Forms\\PensionMngForm.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAuwE4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:49:18.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ViewEmp.cs [Design]",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\ViewEmp.cs",
+              "RelativeDocumentMoniker": "Forms\\ViewEmp.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\New Govt\\New Govt\\Govt.BDPension 1\\Govt.BDPension\\Forms\\ViewEmp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T07:39:32.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "PensionCalForm.Designer.cs",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\PensionCalForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\PensionCalForm.Designer.cs",
+              "ToolTip": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\PensionCalForm.Designer.cs",
+              "RelativeToolTip": "Forms\\PensionCalForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T07:38:15.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ForgotMsgFrom.Designer.cs",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\ForgotMsgFrom.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\ForgotMsgFrom.Designer.cs",
+              "ToolTip": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\ForgotMsgFrom.Designer.cs",
+              "RelativeToolTip": "Forms\\ForgotMsgFrom.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T07:38:06.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ManMenuForm.Designer.cs",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\ManMenuForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\ManMenuForm.Designer.cs",
+              "ToolTip": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\ManMenuForm.Designer.cs",
+              "RelativeToolTip": "Forms\\ManMenuForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T07:37:24.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\LoginForm.Designer.cs",
+              "ToolTip": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\LoginForm.Designer.cs",
+              "RelativeToolTip": "Forms\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T07:35:40.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\New Govt\\New Govt\\Govt.BDPension 1\\Govt.BDPension\\Forms\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T07:35:46.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "DashBoardForm.Designer.cs",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\DashBoardForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\DashBoardForm.Designer.cs",
+              "ToolTip": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\DashBoardForm.Designer.cs",
+              "RelativeToolTip": "Forms\\DashBoardForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T07:35:23.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PensionMngForm.cs [Design]",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\PensionMngForm.cs",
+              "RelativeDocumentMoniker": "Forms\\PensionMngForm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\New Govt\\New Govt\\Govt.BDPension 1\\Govt.BDPension\\Forms\\PensionMngForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T07:36:34.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RetirementMgmt.cs [Design]",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\RetirementMgmt.cs",
+              "RelativeDocumentMoniker": "Forms\\RetirementMgmt.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\New Govt\\New Govt\\Govt.BDPension 1\\Govt.BDPension\\Forms\\RetirementMgmt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T07:36:29.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "RetirementMgmt.Designer.cs",
+              "DocumentMoniker": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\RetirementMgmt.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\RetirementMgmt.Designer.cs",
+              "ToolTip": "D:\\Govt.BDPension 12\\Govt.BDPension 1\\Govt.BDPension\\Forms\\RetirementMgmt.Designer.cs",
+              "RelativeToolTip": "Forms\\RetirementMgmt.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T07:36:27.493Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
