@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Queries>
+  <Authentication>
+    <LoginSystemAdmin>SELECT userName, password FROM SystemAdmin WHERE userName='{0}' AND password='{1}';</LoginSystemAdmin>
+    <LoginPensionAdmin>SELECT userName, password FROM PensionAdmin WHERE userName='{0}' AND password='{1}';</LoginPensionAdmin>
+    <LoginManager>SELECT userName, password FROM Manager WHERE userName='{0}' AND password='{1}';</LoginManager>
+    <LoginViewer>SELECT userName, password FROM Viewer WHERE userName='{0}' AND password='{1}';</LoginViewer>
+  </Authentication>
+  <Employee>
+    <SelectAll>SELECT Name, EmployeeId, Department, Salary, JoiningDate FROM SysEmpAdd;</SelectAll>
+    <SelectAllWithStatus>SELECT Name, EmployeeId, Department, JoiningDate, Status, Salary FROM SysEmpAdd;</SelectAllWithStatus>
+    <SelectForView>SELECT Name, EmployeeId, Department, JoiningDate, Salary FROM SysEmpAdd;</SelectForView>
+    <Insert>INSERT INTO SysEmpAdd (Name, EmployeeId, Salary, Department, JoiningDate) VALUES ('{0}', '{1}', '{2}', '{3}', '{4}');</Insert>
+    <Update>UPDATE SysEmpAdd SET Name='{0}', EmployeeId='{1}', Status='Active', Salary='{2}', Department='{3}', JoinDate='{4}' WHERE EmployeeId='{5}';</Update>
+    <Delete>DELETE FROM SysEmpAdd WHERE EmployeeId='{0}';</Delete>
+  </Employee>
+  <UserControl>
+    <SelectAll>SELECT Name, EmployeeId, Role FROM SysAdmUserCntrl;</SelectAll>
+    <InsertSysAdmUserCntrl>INSERT INTO SysAdmUserCntrl (Name, EmployeeId, Role, Password) VALUES ('{0}', '{1}', '{2}', '{3}');</InsertSysAdmUserCntrl>
+    <InsertPensionAdmin>INSERT INTO PensionAdmin (userName, password) VALUES ('{0}', '{1}');</InsertPensionAdmin>
+    <InsertManager>INSERT INTO Manager (userName, password) VALUES ('{0}', '{1}');</InsertManager>
+    <InsertViewer>INSERT INTO Viewer (userName, password) VALUES ('{0}', '{1}');</InsertViewer>
+    <DeleteViewer>DELETE FROM Viewer WHERE userName='{0}';</DeleteViewer>
+    <DeletePensionAdmin>DELETE FROM PensionAdmin WHERE userName='{0}';</DeletePensionAdmin>
+    <DeleteManager>DELETE FROM Manager WHERE userName='{0}';</DeleteManager>
+    <DeleteSysAdmUserCntrl>DELETE FROM SysAdmUserCntrl WHERE EmployeeId='{0}';</DeleteSysAdmUserCntrl>
+  </UserControl>
+  <Retirement>
+    <SelectAll>SELECT Name, EmployeeId, Department, Salary, JoiningDate FROM SysEmpAdd;</SelectAll>
+    <SelectRetiringThisYear>SELECT Name, EmployeeId, Department, Salary, JoiningDate FROM SysEmpAdd WHERE DATEADD(YEAR, 29, JoiningDate) >= DATEFROMPARTS(YEAR(GETDATE()), 1, 1) AND DATEADD(YEAR, 29, JoiningDate) <= DATEFROMPARTS(YEAR(GETDATE()), 12, 31) AND DATEADD(YEAR, 30, JoiningDate) > DATEFROMPARTS(YEAR(GETDATE()), 12, 31);</SelectRetiringThisYear>
+    <SelectArchived>SELECT Name, EmployeeId, Department, Salary, JoiningDate FROM SysEmpAdd WHERE DATEADD(YEAR, 30, JoiningDate) <= GETDATE();</SelectArchived>
+  </Retirement>
+</Queries>
+
